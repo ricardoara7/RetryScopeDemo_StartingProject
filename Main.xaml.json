@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_Year",
+      "DisplayName": "in_Year",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "2023",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_TaxVendorID",
+      "DisplayName": "in_TaxVendorID",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "DE325476",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_Month",
+      "DisplayName": "in_Month",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "May",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
